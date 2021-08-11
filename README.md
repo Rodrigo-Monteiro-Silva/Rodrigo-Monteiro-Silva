@@ -18,7 +18,7 @@ I'm 24 years old, i love games, music, visual arts and coding. <br />
 
 <br />
 
-### Connect with me:
+### FInd me elsewere 🌎
  
 <a href="https://t.me/RodrigoMonteiroSilva"><img src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white"></img></a>
 <a href="mailto:rodrigo-monteiro-silva@outlook.com"><img src="https://img.shields.io/badge/email-D14836?&style=for-the-badge&logo=email&logoColor=white"></img></a>
