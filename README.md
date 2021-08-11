@@ -1,7 +1,7 @@
 ### Hi there! Welcome to my profile.
 
-My name is Rodrigo Monteiro. I'm from Brazil, currently living in Rio de Janeiro. 
-I'm 24 years old, i love games, music and coding.      
+My name is Rodrigo Monteiro. I'm from Brazil, currently living in Rio de Janeiro. <br />
+I'm 24 years old, i love games, music and coding. <br />      
 
 
 - 🌱 I’m currently learning <strong> Javascript, Typescript, React, ReactNative and NodeJS </strong>!
