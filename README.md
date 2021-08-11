@@ -3,7 +3,8 @@
 
 </br>
 My name is Rodrigo Monteiro. I'm from Brazil, currently living in Rio de Janeiro. <br />
-I'm 24 years old, i love games, music, visual arts and coding. <br />
+I'm 24 years old, i love games, music, visual arts and coding. 
+<br />
 
 - 🌱 I’m currently learning <strong> Javascript, Typescript, React, ReactNative and NodeJS </strong>!
 - 💬 Fell free to ask me something about music! 🎵 :)
