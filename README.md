@@ -7,7 +7,6 @@ I'm 24 years old, i love games, music and coding. <br />
 - 🌱 I’m currently learning <strong> Javascript, Typescript, React, ReactNative and NodeJS </strong>!
 - 💬 Fell free to ask me something about music! 🎵 :)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact
 
 
 <img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
